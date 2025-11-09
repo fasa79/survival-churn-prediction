@@ -40,7 +40,6 @@ This project uses `Python 3.10+`.
     ```bash
     jupyter notebook survival_analysis.ipynb
     ```
-    *(Note: The notebook has been updated to read files from the `data/` directory. You will need to replace the original "Load Data" cell with the corrected code provided by the assistant).*
 
 ---
 
