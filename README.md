@@ -35,7 +35,7 @@ This project uses Python. The data files are included in the `/data` directory.
 1.  **Clone the repository:**
     ```bash
     git clone [your-repo-url]
-    cd rytbank_data_science_assessment
+    cd survival-churn-prediction
     ```
 
 2.  **Create a virtual environment (recommended):**
